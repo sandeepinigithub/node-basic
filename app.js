@@ -1,9 +1,6 @@
-function sum(a, b){
-    return a + b;
-}
+console.log("PROCESS :",process);
 
 //var let const
-
-const total = sum(10 ,20);
-console.log("TOTAL :",total);
+// const total = sum(10 ,20);
+// console.log("TOTAL :",total);
 
