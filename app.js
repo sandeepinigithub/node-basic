@@ -1,6 +1,6 @@
-console.log("PROCESS :",process);
-
+// console.log("PROCESS :",process);
+const helpers = require("./helpers");
 //var let const
-// const total = sum(10 ,20);
-// console.log("TOTAL :",total);
+const total = helpers.sum(10 ,20);
+console.log("TOTAL :",total);
 
