@@ -1,0 +1,22 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepinigithub/node-basic.git"
+  },
+  "author": "Sandeep Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepinigithub/node-basic/issues"
+  },
+  "homepage": "https://github.com/sandeepinigithub/node-basic#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
